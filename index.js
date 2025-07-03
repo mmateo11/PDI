@@ -1,1 +1,0 @@
-console.log("Mateo Perez Ruiz, Ivan Bavio 7°4");
